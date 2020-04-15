@@ -1,6 +1,6 @@
-name = "{{project-name}}"
-type = "javascript"
-account_id = ""
+name = "clouldflare_demo"
+type = "webpack"
+account_id = "334f3d5770db6e15b4b59e7fa9ee7679"
 workers_dev = true
 route = ""
 zone_id = ""
